@@ -1,2 +1,0 @@
-# yehyoung
-Notepad
